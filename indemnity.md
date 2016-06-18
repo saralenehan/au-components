@@ -4,7 +4,7 @@ In a contract for services, it's not usuaul for parties to promise to cover each
 
 ### Customer promises to cover all the costs of the Contractor connected with certain risks.
 
-Customer [will cover the costs (exluding consequential losses)](https://github.com/lawpatch/au-indemnity/blob/613db5bf46a5d99be8ee01d514f6030e6e636325/au-indemnity-2.md) of the Contractor arising from:
+Customer [will cover the costs, exluding indirect losses](https://github.com/lawpatch/au-indemnity/blob/613db5bf46a5d99be8ee01d514f6030e6e636325/au-indemnity-2.md), of the Contractor arising from:
 
 {{risk list}}
 
