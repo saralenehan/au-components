@@ -1,6 +1,6 @@
 ## Covering Costs
 
-In a contract for services, it's not usuaul for parties to promise to cover each other's costs if something bad happens.  That's what this section of the agreement does.  One party promises to cover the other party's costs if costs are incurred as a result of certain risks.
+In a contract for services, it's not usual for parties to promise to cover each other's costs if something bad happens.  That's what this section of the agreement does.  One party promises to cover the other party's costs if costs are incurred as a result of certain risks.
 
 ### Customer promises to cover all the costs of the Contractor connected with certain risks.
 
