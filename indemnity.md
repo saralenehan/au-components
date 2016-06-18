@@ -1,21 +1,22 @@
 ## Covering Costs
 
-It's a formal sounding word, but all an indemnity amounts to is a promise to cover another party's costs.  That's what this section of the agreement does - one party promises to cover the other party's costs if something bad happens.
+In a contract for services, it's not usuaul for parties to promise to cover each other's costs if something bad happens.  That's what this section of the agreement does.  One party promises to cover the other party's costs if costs are incurred as a result of certain risks.
 
 ### Customer promises to cover all the costs of the Contractor connected with certain risks.
 
-Customer [will cover the costs of the Contractor](https://github.com/lawpatch/au-indemnity/blob/ce5ca939d54729ad92c12ed885d52e88a6e1b492/au-indemnity.md) arising from:
-
-{{risk list}}
-
-### Customer promises to cover all the costs of the Contractor connected with certain risks.
-
-Customer [will cover the costs of the Contractor (exluding consequential losses)]() arising from:
+Customer [will cover the costs of the Contractor (exluding consequential losses)](https://github.com/lawpatch/au-indemnity/blob/613db5bf46a5d99be8ee01d514f6030e6e636325/au-indemnity-2.md) arising from:
 
 {{risk list}}
 
 ### Customer promises to cover all the costs of the Contractor connected with certain risks up to a specified amount.
 
-Customer [will cover the costs of the Contractor]() up to {{indemnity limit}} arising from:
+Customer [will cover the costs of the Contractor](https://github.com/lawpatch/au-indemnity/blob/613db5bf46a5d99be8ee01d514f6030e6e636325/au-indemnity-1.md) up to {{indemnity limit}} arising from:
 
 {{risk list}}
+
+### Customer promises to cover all the costs of the Contractor connected with certain risks.
+
+Customer [will cover all costs of the Contractor](https://github.com/lawpatch/au-indemnity/blob/613db5bf46a5d99be8ee01d514f6030e6e636325/au-indemnity-0.md) arising from:
+
+{{risk list}}
+
