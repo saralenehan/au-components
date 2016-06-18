@@ -19,4 +19,3 @@ Customer [will cover the costs](https://github.com/lawpatch/au-indemnity/blob/61
 Customer [will cover all costs](https://github.com/lawpatch/au-indemnity/blob/613db5bf46a5d99be8ee01d514f6030e6e636325/au-indemnity-0.md) of the Contractor arising from:
 
 {{risk list}}
-
