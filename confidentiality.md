@@ -9,7 +9,7 @@
 **Standard of confidentiality**
 
 Contractor agrees to:
-- utilize industry standard security techniques to prevent;
+- utilise industry standard security techniques to prevent;
 - immediately notify the Customer of; and
 - use its best endeavours to mitigate the effects of,
 
