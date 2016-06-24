@@ -1,25 +1,25 @@
-## Calculation of payment
+## Payment calculation
 
-This topic describes how to figure out the amount that the customer will pay the contractor for the services.
+This topic figures out the amount that {{party 1}} will pay {{party 2}} for the services.
 
-### Contractor is paid at an hourly or daily rate for the Services.
+### {{party 1}} is paid based on the time spent on the Services.
 
-The fees payable to Contractor in exchange for the Services will be calculated at {{rate of payment}}.
+The fees payable to {{party 1}} in exchange for the Services will be calculated at {{payment rate}}.
 
-### Contractor will be paid a lump sum in exchange for the Services.
+### {{party 1}} will be paid an amount of money in exchange for completing the Work Scope.
 
-Contractor will be paid the {{total amount}} in exchange for the Services.
+{{party 1}} will be paid the {{dollar amount}} {{gst}} to complete the Work Scope.
 
-### Contractor will be paid the fees set out in the clause table.
+### {{party 1}} will be paid the fees described in the Work Scope.
 
-Customer will pay Contractor the fees set out in the table below.
+{{party 2}} will pay {{party 1}} the dollar amount set out in the Work Scope.
+
+### {{party 1}} will be paid the amount of money described on a web page.
+
+{{party 2}} will pay {{party 1}} the dollar amount(s) set out at {{fees url}}.
+
+### {{party 1}} will be paid the amounts set out in a table.
+
+{{party 2}} will pay {{party 1}} the amounts set out in the table below.
 
 {{fees table}}
-
-### Contractor will be paid the fees set out in the Work Scope.
-
-Customer will pay Contractor the fees set out in the Work Scope.
-
-### Contractor will be paid the fees described on a web page.
-
-Customer will pay Contractor the fees set out at {{fees url}}.
