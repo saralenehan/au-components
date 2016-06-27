@@ -1,6 +1,6 @@
 ## Intellectual property
 
-This issue makes clear which party owns the [intellectual property](https://github.com/lawpatch/dictionary/blob/master/intellectual_property.md) in the product delivered by the contractor to the customer.
+This topic makes clear which party owns the [intellectual property](https://github.com/lawpatch/dictionary/blob/master/intellectual_property.md) in the product delivered by the contractor to the customer.
 
 There are 3 options.
 
