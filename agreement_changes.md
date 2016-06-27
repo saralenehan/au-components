@@ -1,6 +1,6 @@
 ## Agreement changes
 
-If you're using an agreement for a large number of people, sometimes it's a good idea to reserve the right to let everyone know about a change in the agreement by email.  The ability to change from term to term means it's a lot less hassle to update the terms.
+If you're using an agreement for a large number of people, sometimes it's a good idea to reserve the right to let everyone know about a change in the agreement by email. Notifying everybody at once means it's a lot less hassle to update the terms.
 
 ### Contractor can update the Agreement with an email to the Customer.
 
