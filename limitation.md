@@ -18,7 +18,7 @@ Contractor limits liability to Customer for the Services to {{limitation amount}
 
 {{risks to exclude}}
 
-### Customer cannot sue Contractor for direct liabilities but not indirect liabilities.
+### Customer can sue Contractor for direct liabilities but not indirect liabilities.
 
 Contractor [covers liabilities (except for consequential loss)](https://github.com/lawpatch/au-limitation/blob/60ca67dd1644bc284a82c22d25db3e5f56bc41b8/au-limitation-2.md) to Customer for the Services, including liabilities caused by:
 
