@@ -1,36 +1,34 @@
 ## Payment method
 
-This topic clarifies _when_ the customer will pay the contractor for the services.
+This topic clarifies _when and how_ {{party 1}} will pay {{party 2}} for the services.
 
-- Option 1 is best for services provided at an hourly (or some other) rate.
-- Options 2 and 3 are best for work that is based on a project scope.
+### {{party 1}} will invoice {{party 2}} for the Services while the Services continue.
 
-For larger projects, option 3 is likely the best method – smaller amounts of money change hands, and if the agreement isn’t working, the parties can agree to end it with less money at stake.
+- {{party 1}} will invoice {{party 2}} for the Services rendered during the previous {{billing cycle period}}.
+- The {{party 2}} will pay the invoice within {{payment terms}} of receiving the invoice.
+- {{party 2}} will pay the invoice with {{payment mechanism}}.
 
-### Contractor will invoice Customer for the Services while the Services continue.
+### {{party 2}} will pay with an automated payment facility.
 
-Contractor will invoice Customer for the Services rendered during the previous {{billing cycle period}}. The Customer will pay the invoice within {{payment period}} of receiving the invoice.
+{{party 2}} authorises {{party 1}} to effect payment for the Services via {{automated payment}} every {{auto pay period}}.
 
-### Customer will pay a deposit when the Services commence and the rest when the Services are complete.
+### {{party 2}} will pay a deposit when the Services commence and the rest when the Services are complete.
 
-Contractor will issue Customer with an invoice:
+{{party 1}} will issue {{party 2}} with an invoice:
 - for a non-refundable deposit of {{deposit amount}} before commencing the Services; and
 - for {{completion amount}} upon the completion of the Services,
 
-both invoices to be paid by Customer within {{payment terms}} of Customer receiving the invoice.
+both invoices to be paid by {{party 2}} with {{payment mechanism}} within {{payment terms}} of {{party 2}} receiving the invoice.
 
-### The parties will break up payments into "milestones" where Customer pays Contractor when stages of the project are complete.
+### The parties will break up payments into "milestones" where {{party 2}} pays {{party 1}} when stages of the project are complete.
 
-Contractor will issue Customer with invoices for the amounts set out below in accordance with the completion milestones set out below.
+{{party 1}} will issue {{party 2}} with invoices for the amounts set out below in accordance with the completion milestones set out below.
 
 {{milestones}}
 
-Invoices from Contractor will be paid by Customer within {{payment terms}} of Customer receiving the invoice.
+{{milestone payment}}
 
-### Contractor will be paid the fees set out in the Work Scope.
+### {{party 1}} will be paid the fees set out in the Work Scope.
 
-Customer will pay Contractor the fees on the dates described in the Work Scope.
-
-### Customer will pay with an automated payment facility.
-
-Customer authorises Contractor to effect payment for the Services via {{automated payment facility}}
+- {{party 2}} will pay {{party 1}} the fees on the dates described in the Work Scope.
+- {{party 2}} will pay {{party 1}} with {{payment mechanism}}
