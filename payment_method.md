@@ -5,7 +5,7 @@ This topic clarifies _when and how_ {{party 1}} will pay {{party 2}} for the ser
 ### {{party 1}} will invoice {{party 2}} for the Services while the Services continue.
 
 - {{party 1}} will invoice {{party 2}} for the Services rendered during the previous {{billing cycle period}}.
-- The {{party 2}} will pay the invoice within {{payment terms}} of receiving the invoice.
+- {{party 2}} will pay the invoice within {{payment terms}} of receiving the invoice.
 - {{party 2}} will pay the invoice with {{payment mechanism}}.
 
 ### {{party 2}} will pay with an automated payment facility.
