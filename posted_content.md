@@ -7,6 +7,6 @@ If users can post content that other people can view, {{party 1}} will usually w
 {{party 2}} agrees that:
 
 - it is responsible for the legal consequences arising from Posted Content;
-- {{party 1}} is in no way responsible for legal consequences arising from Posted Content; and
-- {{party 1}} may edit or remove Posted Content at its discretion.
+- {{party 1}} is in no way responsible for legal consequences arising from Posted Content;
+- {{party 1}} may edit or remove Posted Content at its discretion; and
 - {{party 2}} promises that it will not, by posting Posted Content, infringe the intellectual property rights of any third party, or cause {{party 1}} to do so.

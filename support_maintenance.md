@@ -8,7 +8,7 @@ It's a good idea for {{party 2}} to know just how much help you're willing to pr
 
 ### {{party 1}} will provide support if and when it wants to.
 
-{{party 1}} will provide support and maintenance to the {{party 2}} at its discretion.
+{{party 1}} will provide support and maintenance to {{party 2}} at its discretion.
 
 ### {{party 1}} will provide support based on the Work Scope.
 
