@@ -1,10 +1,6 @@
 ## Agreement changes
 
-Sometimes, you may need to change the agreement. If you do, you will need to notify anybody who signed the old agreement.
-
-Usually, if the agreement has a renewing term (like an automatically renewing subscription), the notice of change should come before the end of the current term. If there's just a single, fixed term, a reasonable amount of notice will do.
-
-If the agreement deals with really important issues, or the change could affect one or both parties negatively, it may be sensible for the parties to agree to the change in writing.
+Sometimes, you may need to change the agreement. If you do, you will need to notify anybody who entered into the old agreement.
 
 ### {{party 1}} can change the Agreement with an email.
 
