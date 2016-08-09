@@ -7,9 +7,9 @@ If only one party to the contract is disclosing sensitive information, the first
 ### One sided disclosure of Confidential Information.
 
 
-{{nondisclosing party}} [will keep secret](https://github.com/lawpatch/au-confidentiality/blob/d1d4e0b6541615413901091a7d3a4dc41749e17c/confidentiality_terms.md) any confidential information of {{disclosing party}} {{ci subject}} and use it only for {{ci purpose}}.
+{{nondisclosing party}} [will keep secret](https://github.com/lawpatch/au-confidentiality/blob/d1d4e0b6541615413901091a7d3a4dc41749e17c/confidentiality_terms.md) any confidential information of {{disclosing party}} and use it only for {{ci purpose}}.
 
-{{ci exceptions}}
+{{confidentiality limits}}
 
 ### Mutual disclosure of Confidential Information.
 
