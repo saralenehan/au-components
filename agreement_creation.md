@@ -1,6 +1,6 @@
 ## Agreement creation
 
-It is helpful to clarify what counts as formal agreement between the parties.
+It is helpful to clarify when the agreement becomes legally binding.
 
 ### {{party 2}} agrees by using the Services.
 
