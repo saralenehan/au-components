@@ -1,6 +1,6 @@
 ## Backup responsibility
 
-{{party 2}} may want {{party 1}} to ensure that its data is backed up in multiple locations or formats. This might lie outside the scope of the Service offered by {{party 1}}, however.  Everyone needs to be clear about what their backup responsibilities are: compensation for data loss can be a very expensive issue to handle!
+This topic describes who is responsible for backing up data. Everyone needs to be clear about what their backup responsibilities are: compensation for data loss can be a very expensive issue to handle!
 
 ### {{party 2}} is responsible for backup of Data.
 

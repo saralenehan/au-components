@@ -1,6 +1,6 @@
 ## Duration of the agreement
 
-This topic makes the start time and the end time of the agreement clear. Select one of the options below!
+This topic allows you to state the length of time that services are provided for, or the time period when the agreement applies. 
 
 ### {{party 1}} will deliver Services for a certain time period.
 
@@ -12,7 +12,7 @@ This topic makes the start time and the end time of the agreement clear. Select 
 
 ### Agreement lasts for a short period but renews regularly.
 
-The Agreement will bind the parties for the Term.  The Agreement will automatically renew for another Term unless a party to the Agreement gives the other party {{notice period}} notice before the end of the current Term.
+The Agreement will bind the parties for the Term with rolling term renewals. At the end of each Term, the Agreement will automatically renew for another Term unless a party to the Agreement gives the other party {{notice period}} notice. In case of such notice the Agreement will continue to the end of the Term when notice was given, but will not roll over for a new Term.
 
 ### {{party 1}} will provide the Services until the agreement is cancelled.
 

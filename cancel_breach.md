@@ -1,6 +1,6 @@
 ## Cancellation for breach
 
-Sometimes a party won't follow the agreement.  This topic makes clear how the agreement can be cancelled if a party isn't following the agreement.
+This topic describes how the agreement can be cancelled if a party isn't following the agreement.
 
 ### If a party breaks the contract, the other party can cancel the contract.
 
