@@ -1,8 +1,6 @@
 ## Confidentiality
 
-Many commercial agreements involve the disclosure of information that is commercially sensitive, such as trade secrets, active research, or future business plans. This clause makes it clear that there is an obligation to keep information like this confidential.
-
-If only one party to the contract is disclosing sensitive information, the first option here is the most reasonable. If both parties are disclosing sensitive information, the second option is probably best.
+Doing business often involves sharing sensitive or confidential information. This clause deals with keeping secrets safe. The first option works if only one party is sharing secrets. The second option works if both parties are sharing their secrets with each other.
 
 ### One sided disclosure of Confidential Information.
 

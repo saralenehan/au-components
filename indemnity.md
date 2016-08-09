@@ -1,6 +1,6 @@
 ## Covering Costs
 
-Sometimes, parties promise to cover each other's costs if something bad happens.  That's what this section of the agreement does.  One party promises to cover the other party's costs if costs are incurred as a result of certain negative things happening.
+Sometimes, parties promise to cover each other's costs if something bad happens.  That's what this section of the agreement does. 
 
 ### {{party 2}} promises to cover all the direct (but not indirect) costs of {{party 1}} connected with certain risks.
 

@@ -1,8 +1,6 @@
 ## Data rights
 
-When a customer contracts with a technology provider, they often upload data to services controlled by the technology provider.
-
-That data can be really valuable.  Everyone needs to be clear about how that data can be used by the technology provider.
+This topic clarifies whether you can use customer data only to provide your services (option 1) or wheter you can also use it for other purposes (option 2). 
 
 ### {{party 2}} provides an expansive licence over the Data for {{party 1}} to provide the Services.
 

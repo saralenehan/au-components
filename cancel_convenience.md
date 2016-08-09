@@ -1,5 +1,7 @@
 ## Cancellation for convenience
 
+This topic is optional. Use this topic if you want one or both parties to be able to end the agreement even if the other party has done nothing wrong.
+
 ### Any of the parties can end the agreement whenever they like with a certain amount of warning.
 
 Either party may cancel the Agreement without giving reasons {{termination process}}.
