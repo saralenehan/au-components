@@ -6,29 +6,17 @@ If only one party to the contract is disclosing sensitive information, the first
 
 ### One sided disclosure of Confidential Information.
 
-**General obligation of confidentiality**
 
-- Confidential Information will be disclosed by {{disclosing party}} to {{nondisclosing party}} at the discretion of {{disclosing party}}.
-- {{nondisclosing party}} agrees to use the Confidential Information solely to provide the Services.
-- {{nondisclosing party}} agrees to keep the Confidential Information strictly confidential.
+{{nondisclosing party}} [will keep secret](https://github.com/lawpatch/au-confidentiality/blob/d1d4e0b6541615413901091a7d3a4dc41749e17c/confidentiality_terms.md) any confidential information of {{disclosing Party}} {{ci subject}} and use it only for {{ci purpose}}.
 
-**Standard of confidentiality**
+{{ci exceptions}}
 
-{{nondisclosing party}} agrees to:
-- utilise industry standard security techniques to prevent;
-- immediately notify {{disclosing party}} of; and
-- use its best endeavours to mitigate the effects of,
+Exceptions as an optional inclusion.
+	- Do you want any exceptions to these confidentiality obligations?
+	- {{nondisclosing party}} is permitted disclose {{blank widget}}
 
-any unauthorised access or use of the Confidential Information for which it is responsible in whole or in part.
-
-**Permitted disclosures**
-
-- {{nondisclosing party}} is permitted to disclose Confidential Information if:
-	- the disclosure is necessary in order to enforce the Agreement; or
-	- the disclosure is required by law or a binding order of a government agency or court.
-- {{nondisclosing party}} must not make such a disclosure without first notifying {{disclosing party}} and giving {{disclosing party}} a reasonable opportunity to object to the disclosure.
-- {{nondisclosing party}} must also use reasonable endeavours to ensure any person receiving the Confidential Information under this clause will treat it confidentially.
-
+Subject as optional inclusion
+	- Do you wish to limit the scope of this confidentiality obligation to _certain kinds_ of confidential information?
 
 ### Mutual disclosure of Confidential Information.
 
