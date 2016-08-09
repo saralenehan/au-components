@@ -1,6 +1,6 @@
 ## Document inconsistency resolution
 
-Many service providers have a "work scope" that sets out the work that they're going to do for a customer.  Sometimes different documents making up the agreement conflict.  We need to have a provision that makes clear which of the documents "wins".
+Sometimes business arrangements are formalised in more than one document - e.g. a legal agreement as well as a work scope document. This topic deals with what happens if there is any inconsistency between documents.
 
 In almost all cases, you want the legal document (this document) to win over something like a work scope document, which is usually commercially oriented.  In most cases, it's better for legal text to take precedence over commercial salesmanship! 
 

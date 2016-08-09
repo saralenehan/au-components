@@ -1,6 +1,6 @@
 ## Acceptable use
 
-It's common to have rules about what {{party 2}} can and can't do using the Service. Usually these are rules about certain kinds of content (e.g. no posting of porn), and certain kinds of interactions (e.g. harassment isn't allowed).
+It's common to have rules about what {{party 2}} can and can't do using the Service. Usually these are rules about content (e.g. no posting of porn), and interactions (e.g. harassment isn't allowed).
 
 ### {{party 2}} agrees not to use the Service for the listed activities.
 
