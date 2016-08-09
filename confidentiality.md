@@ -13,6 +13,6 @@ If only one party to the contract is disclosing sensitive information, the first
 
 ### Mutual disclosure of Confidential Information.
 
-Both {{party 1}} and {{party 2}} [will keep secret](https://github.com/lawpatch/au-confidentiality/blob/d1d4e0b6541615413901091a7d3a4dc41749e17c/confidentiality_terms.md) any confidential information disclosed by the other party, and use only for {{ci purpose}}
+Both {{party 1}} and {{party 2}} [will keep secret](https://github.com/lawpatch/au-confidentiality/blob/d1d4e0b6541615413901091a7d3a4dc41749e17c/confidentiality_terms.md) any confidential information disclosed by the other party, and use it only for {{ci purpose}}
 
-{{confidentiality limits}}
+{{mutual confidentiality limits}}
