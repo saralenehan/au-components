@@ -6,10 +6,6 @@ It is helpful to clarify what counts as formal agreement between the parties.
 
 {{party 2}} agrees to the terms of the Agreement by using the Services.
 
-### {{party 2}} agrees by signing.
-
-{{party 2}} agrees to the terms of the Agreement by signing the Agreement.
-
 ### Both parties sign to create agreement.
 
 The parties agree to the terms of the Agreement by signing the Agreement.
