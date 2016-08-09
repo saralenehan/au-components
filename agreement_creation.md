@@ -12,7 +12,7 @@ It is helpful to clarify what counts as formal agreement between the parties.
 
 ### Both parties sign to create agreement.
 
-The parties agree to the Agreement by signing the Agreement.
+The parties agree to the terms of the Agreement by signing the Agreement.
 
 ### {{party 2}} agrees via clickwrap.
 
