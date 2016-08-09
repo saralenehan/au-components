@@ -1,9 +1,6 @@
 ## Acceptable use
 
-It's a good idea to be clear about what {{party 2}} can't use the Service for.  Usually, {{party 1}} will object to the use of the Service:
-
-- in association with certain kinds of content; or
-- to deal with third parties in certain undesirable ways.
+It's common to have rules about what {{party 2}} can and can't do using the Service. Usually these are rules about certain kinds of content (e.g. no posting of porn), and certain kinds of interactions (e.g. harassment isn't allowed).
 
 ### {{party 2}} agrees not to use the Service for the listed activities.
 
