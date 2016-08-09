@@ -11,11 +11,6 @@ If only one party to the contract is disclosing sensitive information, the first
 
 {{ci exceptions}}
 
-Exceptions as an optional inclusion.
-	- Do you want any exceptions to these confidentiality obligations?
-	- {{nondisclosing party}} is permitted disclose {{blank widget}}
-
-
 ### Mutual disclosure of Confidential Information.
 
 **General obligation of confidentiality**
