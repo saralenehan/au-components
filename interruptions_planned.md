@@ -1,6 +1,6 @@
 ## Planned interruptions
 
-This topic allows you to interrupt your service for planned updates and improvements.
+This topic allows for the service to be interrupted for planned updates and improvements.
 
 ### Planned Service interruption will take place after a written warning.
 
