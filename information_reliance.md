@@ -1,8 +1,8 @@
 ## Information and reliance
 
-Services of all kinds often involve conveying information to a person using the service.  As it's hard to make information _completely_ accurate, this topic makes clear how much a person can rely on the information presented (hint: in most cases, not much).
+Often you will be providing some information to users.  It's hard to guarantee that information will be _completely_ accurate. This topic helps to prevent users blaming you for inaccuracies.
 
-### {{party 1}} makes it clear that {{party 2}} should not rely on any information provided as part of the Services.
+### {{party 2}} should not rely on any information provided as part of the Services.
 
 - {{party 1}} does not promise that any Service Content is complete or correct.
 - {{party 2}} agrees that it should verify any Service Content before relying on it in any way.
