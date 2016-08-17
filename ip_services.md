@@ -1,12 +1,12 @@
 ## Intellectual property
 
-This topic makes clear which party owns the [intellectual property](https://github.com/lawpatch/dictionary/blob/master/intellectual_property.md) in the product delivered by {{party 1}} to {{party 2}}.
+This topic makes clear which party owns the [intellectual property](https://github.com/lawpatch/dictionary/blob/master/intellectual_property.md) (sometimes known as IP) in the product delivered by {{party 1}} to {{party 2}}. IP is often a **big source of value**, so it is important to be clear about ownership and use of IP.  It is worth carefully considering which of the options below works best for your circumstances.
 
 There are 3 options.
 
 **The first option** creates a split where:
-- {{party 1}} owns the Background IP; and
-- {{party 2}} owns the New IP.
+- {{party 1}} owns the existing background IP; and
+- {{party 2}} owns the new IP.
 
 **The second option** gives {{party 1}} ownership of the intellectual property that it creates under the Agreement – {{party 2}} can use it under a licence.  This option is advantageous to {{party 1}}, since it can be reused for future customers.
 
@@ -20,10 +20,10 @@ There are 3 options.
 
 {{grants a licence}}
 
-### {{party 1}} will own all the intellectual property in the Services IP ({{party 2}} gets a licence to use it).
+### {{party 1}} will own all the intellectual property in the Services IP but ({{party 2}} is allowed to use it).
 
 - {{party 2}} [transfers ownership of the intellectual property rights](https://github.com/lawpatch/au-ip_transfer/blob/e1f03c73bd15e8ddfa281aeff129154f734eff71/au-ip_transfer.md) in the Services IP to {{party 1}}, with the exception of any Contributed IP.
-- {{party 1}} grants a licence to {{party 2}} to the Services IP as described in the table below.
+- {{party 1}} grants a licence to {{party 2}} to use the Services IP as described in the table below.
 
 {{grants a licence}}
 
