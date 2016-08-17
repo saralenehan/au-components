@@ -2,7 +2,7 @@
 
 ### Service licence
 
-{{party 1}} licences {{party 2}} as described below.
+{{party 1}} grants a licence to {{party 2}} in the subject as described in the table below.
 
 |licence term| value
 |:------------- |:-------------
