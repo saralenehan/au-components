@@ -8,9 +8,9 @@ There are 3 options.
 - {{party 1}} owns the existing background IP; and
 - {{party 2}} owns the new IP.
 
-**The second option** gives {{party 1}} ownership of the intellectual property that it creates under the Agreement – {{party 2}} can use it under a licence.  This option is advantageous to {{party 1}}, since it can be reused for future customers.
+Under **the second option** {{party 1}} keeps ownership of the intellectual property that it creates for {{party 2}}, but {{party 2}} can use the intellectual property under a licence.  This option is really good for {{party 1}}, because it allows {{party 1}} to re-use the same work for future customers.
 
-**The third option** transfers the ownership of all the intellectual property to {{party 2}}. This option is usually only appropriate when {{party 1}} doesn't use any of its Background IP and does not want to reuse what it builds.
+**The third option** transfers the ownership of all the intellectual property to {{party 2}}. This option gives {{party 2}} control over the IP {{party 1}} provides. This option is usually only appropriate when {{party 1}} doesn't use any of its Background IP and does not want to reuse what it build for {{party 2}}.
 
 ### {{party 1}} maintains ownership of the Background IP, {{party 2}} owns the New IP.
 
