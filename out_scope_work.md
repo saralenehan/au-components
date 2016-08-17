@@ -7,5 +7,5 @@ Sometimes, you'll have to perform work outside of what you'd originally anticipa
 - If {{party 1}}:
   - provides Services not covered by the Work Scope; and 
   - those Services increase the amount work that {{party 1}} must do in order to complete the Work Scope; then
-  - {{party 2}} will pay {{party 1}} a rate of {{payment rate}} for the extra person-hours worked.
+  - {{party 2}} will pay {{party 1}} a rate of ${{payment rate}} for the extra person-hours worked.
 - {{party 1}} may invoice {{party 2}} for extra person-hours worked at its discretion, {{party 2}} will pay within {{payment terms}} of receiving the invoice.
