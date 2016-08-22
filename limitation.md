@@ -2,9 +2,9 @@
 
 This topic sets out how much {{party 1}} will **compensate** {{party 2}} for if something goes wrong with the services.  It amounts to a limit on how much {{party 2}} can sue {{party 1}} for.
 
-For example, if a contractor builds an app for a customer that doesn’t work, how much can the customer claim from the contractor to compensate?
+For example, if a contractor builds an app for a customer that doesn’t work, how much money can the customer claim from the contractor in compensation?
 
-### The amount {{party 2}} can claim from {{party 1}} is limited to the legal minimum.
+### {{party 2}} can only claim the minimum amount that the law allows from {{party 1}}.
 
 The amount {{party 2}} can claim from {{party 1}} in relation to the Services is [limited to the legal minimum](https://github.com/lawpatch/au-limitation/blob/60ca67dd1644bc284a82c22d25db3e5f56bc41b8/au-limitation-0.md) (including for any Example Costs){{exceptions to limits}}.
 
