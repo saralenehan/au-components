@@ -8,7 +8,7 @@ The fees payable to {{party 1}} in exchange for the Services will be calculated 
 
 ### {{party 1}} will be paid an amount of money in exchange for completing the Work Scope.
 
-{{party 1}} will be paid the {{dollar amount}} {{gst}} to complete the Work Scope.
+{{party 1}} will be paid the ${{dollar amount}} {{gst}} to complete the Work Scope.
 
 ### {{party 1}} will be paid the fees described in the Work Scope.
 
