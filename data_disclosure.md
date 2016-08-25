@@ -1,8 +1,8 @@
 ## Data disclosure
 
-Sometimes {{party 1}} has to disclose {{party 2}}'s data. This topic makes that clear.
+Sometimes {{party 1}} has to share or publish {{party 2}}'s data. This topic explains when.
 
-### {{party 1}} has the right to disclose Data to certain parties.
+### {{party 1}} can share Data
 
 {{party 1}} reserves the right to disclose Data to:
 
