@@ -2,7 +2,7 @@
 
 Often you will be providing some information to users.  It's hard to guarantee that information will be _completely_ accurate. This topic helps to prevent users blaming you for inaccuracies.
 
-### {{party 2}} should not rely on any information provided as part of the Services.
+### {{party 2}} should not rely on Service Content.
 
 - {{party 1}} does not promise that any Service Content is complete or correct.
 - {{party 2}} agrees that it should verify any Service Content before relying on it in any way.
