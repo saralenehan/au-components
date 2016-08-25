@@ -2,7 +2,7 @@
 
 This topic clarifies things like when and where {{party 2}} can use the service.
 
-### {{party 1}} puts basic restrictions on the use of the Service
+### {{party 1}} has restrictions on the use of the Service.
 
 {{party 1}} grants a licence to {{party 2}} over the "Subject" as described in the table below.
 
