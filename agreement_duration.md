@@ -2,11 +2,11 @@
 
 This topic allows you to state the length of time that services are provided for, or the time period when the agreement applies. 
 
-### {{party 1}} will deliver Services for a certain time period.
+### Agreement lasts for a set time period.
 
 {{party 1}} will provide the Services to {{party 2}} {{agreement length}}, unless the Agreement is cancelled under another provision of the Agreement.
 
-### {{party 1}} will provide the Services for as long as it takes to completes the Work Scope.
+### Agreement lasts until work is complete.
 
 {{party 1}} will provide the Services to {{party 2}} until {{party 1}} completes the Work Scope.
 
