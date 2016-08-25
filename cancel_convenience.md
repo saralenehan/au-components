@@ -2,7 +2,7 @@
 
 This topic is optional. Use this topic if you want one or both parties to be able to end the agreement even if the other party has done nothing wrong.
 
-### Any of the parties can canel the agreement whenever they like 
+### Any of the parties can cancel the agreement whenever they like.
 
 Either party may cancel the Agreement without giving reasons {{termination process}}.
 
