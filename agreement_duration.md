@@ -6,7 +6,7 @@ This topic allows you to state the length of time that services are provided for
 
 {{party 1}} will provide the Services to {{party 2}} {{agreement length}}, unless the Agreement is cancelled under another provision of the Agreement.
 
-### Agreement lasts until work is complete.
+### Agreement lasts until Work Scope is complete.
 
 {{party 1}} will provide the Services to {{party 2}} until {{party 1}} completes the Work Scope.
 
