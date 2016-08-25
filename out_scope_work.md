@@ -2,7 +2,7 @@
 
 Sometimes, you'll have to perform work outside of what you'd originally anticipated. There needs to be a system for calculating how {{party 1}} will be paid for extra work caused by changes to the original scope of work.
 
-### {{party 2}} will pay {{party 1}} a pre-agreed hourly rate for any variations that increase the Work Scope.
+### An hourly rate applies to extra work
 
 - If {{party 1}}:
   - provides Services not covered by the Work Scope; and 
