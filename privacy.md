@@ -1,6 +1,6 @@
 ## Privacy
 
-You might need to have a published privacy policy because of privacy law.  A privacy policy informs people about how your organisation uses information that can be used to identify people. 
+You might need to have a published privacy policy because of privacy law.  A privacy policy informs people about how your organisation uses information that can be used to identify people. Codepact has a privacy policy template if you need one.  :)
 
 ### {{party 1}} has a Privacy Policy.
 
