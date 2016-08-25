@@ -2,7 +2,7 @@
 
 It's common to have rules about what {{party 2}} can and can't do using the Service. Usually these are rules about content (e.g. no posting of porn), and interactions (e.g. harassment isn't allowed).
 
-### {{party 2}} agrees not to use the Service for the listed activities.
+### List of unacceptable uses by {{party 2}}.
 
 - {{party 2}} agrees to use the Service in accordance with the law at all times and only in ways that the Service was designed to be used.
 - {{party 2}} agrees not to use the Service to communicate or store any information:
