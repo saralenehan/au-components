@@ -4,7 +4,7 @@
 
 You can delete this topic if the Service does not require accounts.
 
-### {{party 2}} agrees to be responsible for the accuracy and security of its Account.
+### {{party 2}} takes responsibility for its user account
 
 - {{party 2}} agrees to:
   - provide accurate and complete information to {{party 1}} to establish the Account;
