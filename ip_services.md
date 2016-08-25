@@ -12,7 +12,7 @@ Under **the second option** {{party 1}} keeps ownership of the intellectual prop
 
 **The third option** transfers the ownership of all the intellectual property to {{party 2}}. This option gives {{party 2}} control over the IP {{party 1}} provides. This option is usually only appropriate when {{party 1}} doesn't use any of its Background IP and does not want to reuse what it build for {{party 2}}.
 
-### {{party 1}} maintains ownership of the Background IP, {{party 2}} owns the New IP.
+### {{party 1}} keeps Background IP, {{party 2}} gets New IP.
 
 - {{party 1}} [transfers ownership of the intellectual property rights](https://github.com/lawpatch/au-ip_transfer/blob/e1f03c73bd15e8ddfa281aeff129154f734eff71/au-ip_transfer.md) in the New IP in the Services IP to {{party 2}}, with the exception of any Background IP.
 - {{party 1}} grants a licence to {{party 2}} to the Background IP as described in the table below.
@@ -20,14 +20,14 @@ Under **the second option** {{party 1}} keeps ownership of the intellectual prop
 
 {{grants a licence}}
 
-### {{party 1}} will own all the intellectual property in the Services IP but ({{party 2}} is allowed to use it).
+### {{party 1}} keeps the IP but ({{party 2}} is allowed to use it.
 
 - {{party 2}} [transfers ownership of the intellectual property rights](https://github.com/lawpatch/au-ip_transfer/blob/e1f03c73bd15e8ddfa281aeff129154f734eff71/au-ip_transfer.md) in the Services IP to {{party 1}}, with the exception of any Contributed IP.
 - {{party 1}} grants a licence to {{party 2}} to use the Services IP as described in the table below.
 
 {{grants a licence}}
 
-### {{party 2}} will own all the intellectual property in the Services IP.
+### {{party 2}} gets all the Services IP.
 
 {{party 1}} [transfers ownership of the intellectual property rights](https://github.com/lawpatch/au-ip_transfer/blob/e1f03c73bd15e8ddfa281aeff129154f734eff71/au-ip_transfer.md) in the Services IP to {{party 2}}.
 

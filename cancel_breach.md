@@ -2,7 +2,7 @@
 
 This topic describes how the agreement can be cancelled if a party isn't following the agreement.
 
-### If a party breaks the contract, the other party can cancel the contract.
+### A party who breaks the contract gets a warning before the other party can cancel the contract.
 
 - Either party may cancel the Agreement immediately if:
 	- a party notifies the other party of an Agreement breach; and
