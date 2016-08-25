@@ -10,11 +10,11 @@ The fees payable to {{party 1}} in exchange for the Services will be calculated 
 
 {{party 1}} will be paid the ${{dollar amount}} {{gst}} to complete the Work Scope.
 
-### A separate Work Scope document deals with payment.
+### A separate Work Scope document describes the payment.
 
 {{party 2}} will pay {{party 1}} the dollar amount set out in the Work Scope.
 
-### A separate web page deals with payment.
+### A separate web page describes the payment.
 
 {{party 2}} will pay {{party 1}} the dollar amount(s) set out at {{fees url}}.
 
