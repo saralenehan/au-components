@@ -9,7 +9,7 @@ Sometimes, you may need to update the agreement. If you do, you will need to not
 
 ### {{party 1}} can make changes that apply when the Agreement renews.
 
-- If the Agreement has an autonmatically renewing term, {{party 1}} may change the Agreement by notifying {{party 2}} in writing {{notice period}} before the end of a Term, and the changes will take effect in the next Term.
+- If the Agreement has an automatically renewing term, {{party 1}} may change the Agreement by notifying {{party 2}} in writing {{notice period}} before the end of a Term, and the changes will take effect in the next Term.
 - If {{party 2}} does not agree to the Agreement changes, {{party 2}} must cease using the Services before that next Term begins.
 
 ### Parties need to change the Agreement in writing.
