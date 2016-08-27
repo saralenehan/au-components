@@ -1,6 +1,6 @@
 ## Payment method
 
-This topic clarifies _when and how_ {{party 2}} will pay {{party 1}} for the services.
+This topic clarifies **when** and **how** {{party 2}} will pay {{party 1}} for the services.
 
 ### There is an invoicing procedure.
 
